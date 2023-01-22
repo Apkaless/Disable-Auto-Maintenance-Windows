@@ -1,0 +1,5 @@
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\Maintenance
+
+ 32-bit DWORD NAME > MaintenanceDisabled
+ 
+set the value to 1
